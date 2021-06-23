@@ -3,9 +3,11 @@ A public repository for the fanmade remake project Solatorobo: Dal Segno al CODA
 
 SOLATOROBO: DAL SEGNO AL CODA is a fan-made remake of CyberConnect2's 2010 game Solatorobo: Red the Hunter running on Unity Engine that we intend on releasing for free.
 Please note we are NOT affiliated with CyberConnect2 or any of it's subsidiaries and we DO NOT own Little Tail Bronx or Solatorobo. If you like the Little Tail Bronx series and support CC2's games, please send them some love and support by buying their products.
-Discord: https://discord.gg/B4b2vnSxDU
-Website: Coming someday.
 
+Discord: https://discord.gg/B4b2vnSxDU
+</br>
+Website: Coming someday.
+</br>
 
 What is Solatorobo: Dal Segno al CODA?
 
